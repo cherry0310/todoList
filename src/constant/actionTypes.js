@@ -1,0 +1,9 @@
+export const ADD_TODO = "ADD_TODO";
+export const TOGGLE_TODO = "TOGGLE_TODO";
+export const SET_VISIBLE_FILTER = "SET_VISIBLE_FILTER";
+
+export const VISIBLE_FILTERS = {
+    SHOW_ALL: "SHOW_ALL",
+    SHOW_COMPLETED: "SHOW_COMPLETED",
+    SHOW_TODO: "SHOW_TODO"
+};

@@ -1,0 +1,16 @@
+/*
+ *整个state树的结构
+ */
+{
+    "visibleTodoFilter" : "SHOW_ALL",
+    "todos": [
+        {
+            "text": "learn react",
+            "completed": false
+        },
+        {
+            "text": "learn redux",
+            "completed": false
+        }
+    ]
+}

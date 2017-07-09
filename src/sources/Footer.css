@@ -1,0 +1,10 @@
+.unselect{
+    color: #00f;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+span{
+    display: inline-block;
+    margin: 0 10px;
+}
